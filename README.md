@@ -172,4 +172,4 @@ Add screenshots here before publishing on GitHub:
 
 ## Author
 
-Developed as a Java Swing Event Management System project.
+  Developed By {Fano-Hashmi}
